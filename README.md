@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Monisha 👋
 
-<!--
-**monishadey/monishadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Business Development Professional** with nearly **7 years of experience** in SaaS, Business Strategy, and Market Research.
 
-Here are some ideas to get you started:
+🎓 MBA Candidate (Marketing & Business Analytics) @ **NIT Calicut**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Business Analytics
+- Product Strategy
+- Growth
+- Data-Driven Decision Making
+- AI for Business
+
+## 🛠️ Currently Working On
+- 📊 Insurance Customer Churn Prediction
+- 🗄️ SQL for Business Analytics
+- 📈 Power BI Dashboards
+- 🐍 Python for Data Analysis
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/monisha-dey-0a582a18a
+- Email: monishadey031998@gmail.com
+
+---
+*"Turning business challenges into data-driven opportunities."*
