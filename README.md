@@ -2,7 +2,7 @@
 
 💼 **Business Development Professional** with nearly **7 years of experience** in SaaS, Business Strategy, and Market Research.
 
-🎓 MBA Candidate (Marketing & Business Analytics) @ **NIT Calicut**
+🎓 MBA Candidate (Business Analytics & Marketing) @ **NIT Calicut**
 
 ## 🚀 Interests
 - Business Analytics
