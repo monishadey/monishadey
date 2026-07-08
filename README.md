@@ -1,25 +1,23 @@
-# Hi, I'm Monisha 👋
+# Monisha Dey
 
-💼 **Business Development Professional** with nearly **7 years of experience** in SaaS, Business Strategy, and Market Research.
+Business Development Professional with nearly 7 years of experience in SaaS, market research, client acquisition, and business strategy. MBA in **Business Analytics & Marketing** from **NIT Calicut**, with a growing focus on Business Analytics, Product Strategy, and data-driven decision-making.
 
-🎓 MBA Candidate (Business Analytics & Marketing) @ **NIT Calicut**
 
-## 🚀 Interests
+This GitHub serves as a portfolio of my analytics projects, case studies, and continuous learning journey.
+
+## Expertise
+- Business Development
 - Business Analytics
 - Product Strategy
 - Growth
-- Data-Driven Decision Making
-- AI for Business
+- Market Research
 
-## 🛠️ Currently Working On
-- 📊 Insurance Customer Churn Prediction
-- 🗄️ SQL for Business Analytics
-- 📈 Power BI Dashboards
-- 🐍 Python for Data Analysis
+## Current Projects
+- Insurance Customer Churn Prediction
+- SQL for Business Analytics
+- Power BI Dashboards
+- Python for Data Analysis
 
-## 📫 Connect with Me
+## Connect
 - LinkedIn: www.linkedin.com/in/monisha-dey-0a582a18a
 - Email: monishadey031998@gmail.com
-
----
-*"Turning business challenges into data-driven opportunities."*
